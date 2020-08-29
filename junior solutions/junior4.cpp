@@ -3,9 +3,6 @@
 using namespace std;
 int a[2][2] = { {1, 2},
                 {3, 4} };
-
-int b[2][2] = { {1, 2},
-                {3, 4} };
 char in [1001];
 
 int main()
